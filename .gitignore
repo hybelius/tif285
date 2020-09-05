@@ -42,3 +42,6 @@ reveal.js
 KEY*
 key*
 
+# ignore conda environment
+env
+Lib
