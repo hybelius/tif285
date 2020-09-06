@@ -45,3 +45,7 @@ key*
 # ignore conda environment
 env
 Lib
+
+# ignore images, data
+*.png
+*.dat
