@@ -49,3 +49,5 @@ Lib
 # ignore images, data
 *.png
 *.dat
+doc\pub\Projects\Project1\fig\*
+doc\pub\Projects\Project1\samples\*
